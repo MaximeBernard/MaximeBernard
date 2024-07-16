@@ -2,7 +2,7 @@
 
 I'm Maxime Bernard. 
 
-- I ❤️ TypeScript
+- I ❤️ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - I'm passionate about UI/UX
 - I thrive to build the perfect DX
 - I try to make complex stuff look simple
