@@ -11,7 +11,7 @@ I'm Maxime Bernard.
 
 If you want to know more about me: [here's my CV](maximebernard.github.io).
 
-If you want to reach me: here's my [LinkedIn](https://www.linkedin.com/in/mbpro) 
+If you want to reach me: here's my [LinkedIn](https://www.linkedin.com/in/mbpro).
 
 <!--
 **MaximeBernard/MaximeBernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
