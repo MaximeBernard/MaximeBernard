@@ -9,11 +9,9 @@ I'm Maxime Bernard.
 - I try to be a better manager
 - I live in Paris 
 
-### Where have you been?
-My previous companies were Société Générale (through Smile), Wemanity, Société Générale (again) and Saint-Gobain (through SFEIR).
+If you want to know more about me: [here's my CV](maximebernard.github.io).
 
-### How to reach me?
-[LinkedIn](https://www.linkedin.com/in/mbpro)
+If you want to reach me: here's my [LinkedIn](https://www.linkedin.com/in/mbpro) 
 
 <!--
 **MaximeBernard/MaximeBernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
